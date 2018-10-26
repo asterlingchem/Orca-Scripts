@@ -1,4 +1,4 @@
-#!/home/dirac/tmcs/ball4935/opt/anaconda3/bin/python3.6
+#!<python3 path>
 import sys
 import os
 from sys import argv
